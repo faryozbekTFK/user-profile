@@ -1,6 +1,6 @@
 # User Profile Management
 
-![This is an image](link)
+![This is an image](https://github.com/faryozbekTFK/user-profile/blob/master/src/assets/images/user-page.png)
 
 ## Project Setup
 
@@ -25,9 +25,9 @@
 
 Could not use this server due to an error in the [mock API](https://mswjs.io/). That's why I used [json-server](https://www.npmjs.com/package/json-server).
 
-![This is an image](link)
+![This is an image](https://github.com/faryozbekTFK/user-profile/blob/master/src/assets/images/errors/error-2.png)
 
-![This is an image](link)
+![This is an image](https://github.com/faryozbekTFK/user-profile/blob/master/src/assets/images/errors/error-1.png)
 
 ## Working Process
 
