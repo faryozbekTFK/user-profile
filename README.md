@@ -21,6 +21,10 @@
    npm start
    ```
 
+Server running - http://localhost:3005
+
+Project running - http://localhost:3000
+
 ## Error In Mock API - [mswjs.io](https://mswjs.io/)
 
 Could not use this server due to an error in the [mock API](https://mswjs.io/). That's why I used [json-server](https://www.npmjs.com/package/json-server).
